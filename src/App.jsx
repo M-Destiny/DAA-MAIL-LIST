@@ -1,6 +1,6 @@
 import { Routes, Route } from "react-router-dom";
 import SignupForm from "./components/SignupForm";
-import TermsAndConditions from "./components/TermsAndConditions";
+import TermsAndConditions from "./components/TermsAndConditions.jsx";
 
 export default function App() {
   return (
